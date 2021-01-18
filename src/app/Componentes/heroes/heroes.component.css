@@ -1,0 +1,54 @@
+.bordes{
+    border-width: 3px;
+    border-style: solid;
+    height:50px;
+    width:120px;
+    border: 3px solid rgba(26, 27, 26, 0.171);
+    outline: 1px solid rgb(0, 0, 0);
+     text-align: center;
+     align-items: center;
+     overflow: hidden;
+     box-shadow: 3px 5px 25px rgba(0, 0, 0, 0.548);
+     transition:1s;
+}
+.bordes2{
+    border-width: 3px;
+    border-style: solid;
+    height:400px;
+    width:600px;
+    border: 3px solid rgba(26, 27, 26, 0.171);
+    outline: 1px solid rgb(0, 0, 0);
+     text-align: center;
+     align-items: center;
+     overflow: hidden;
+     box-shadow: 3px 5px 25px rgba(0, 0, 0, 0.548);
+     transition:1s;
+}
+.contenedorprincipal{
+    margin-bottom: 75px;
+}    
+.ocultar{
+visibility: hidden;
+}
+.mostrar{
+    visibility: visible;
+}
+
+.mayordivisor{
+    border-width: 3px;
+    border-style: solid;
+    height: 550px;
+    width:170px ;     
+    color: rgb(47, 6, 143);
+    margin: 20px;
+    padding-top:40px;
+    padding: 20px;
+    vertical-align: middle;
+    align-items: center;
+}
+.bordes:hover{
+    transform: scale(2);
+}
+.vistadeheroes{
+    align-items: center;
+}
